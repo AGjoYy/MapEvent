@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMaps_Events</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="write_event">Write Event</string>
+    <string name="add">ADD</string>
+
+</resources>
